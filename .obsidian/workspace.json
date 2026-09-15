@@ -217,6 +217,10 @@
   },
   "active": "220e7e7885e981d9",
   "lastOpenFiles": [
+    "dist/index.html",
+    "dist/computer-science/compression/Writing a custom codec from scratch.html",
+    "dist/computer-science/compression",
+    "dist/computer-science",
     "computer-science/compression/Writing a custom codec from scratch.md",
     "index.md",
     "computer-science/Untitled",
@@ -226,9 +230,6 @@
     "computer-science",
     "dist/_static/style.css",
     "dist/_static/script.js",
-    "dist/_static/out.js",
-    "dist/_static",
-    "dist/Welcome.html",
-    "dist"
+    "dist/_static/out.js"
   ]
 }
