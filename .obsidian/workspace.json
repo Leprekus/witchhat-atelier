@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/compression/Writing a custom codec from scratch.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing a custom codec from scratch"
+              "title": "index"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/compression/Writing a custom codec from scratch.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,11 +215,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7abb2f0e56c583e9",
+  "active": "220e7e7885e981d9",
   "lastOpenFiles": [
+    "computer-science/compression/Writing a custom codec from scratch.md",
+    "index.md",
     "computer-science/Untitled",
     "Welcome.md",
-    "computer-science/compression/Writing a custom codec from scratch.md",
     "computer-science/compression",
     "Untitled",
     "computer-science",
